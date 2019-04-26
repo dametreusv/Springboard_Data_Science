@@ -1,2 +1,3 @@
 # Springboard
-Springboard projects
+
+This is a repository for Springboard Projects.
