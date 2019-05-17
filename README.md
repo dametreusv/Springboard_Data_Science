@@ -8,4 +8,4 @@ Capstone projects are not included and can be found at:
 ---------------------------
 
 ### Data Acquisition
-[JSON_Data_Wrangling](https://github.com/dametreusv/Springboard/tree/master/json_data_wrangling)
+[JSON_Data_Wrangling](https://github.com/dametreusv/Springboard/blob/master/json_data_wrangling/json_data_wrangling.ipynb)
