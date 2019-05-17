@@ -1,0 +1,1 @@
+In this mini project we will be getting familiar with packages dealing with JSON. We will be wrangling data from the World Bank dataset involving development projects within several countries so that we may briefly analyze and transform the data while also filling in null values.
