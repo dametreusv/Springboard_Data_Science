@@ -10,7 +10,7 @@ Capstone projects can be found at:
 ### Data Wrangling
 [JSON Extraction and Manipulation](https://github.com/dametreusv/Springboard/blob/master/json_data_wrangling/json_data_wrangling.ipynb)
 
-[API and Requests](https://github.com/dametreusv/Springboard/blob/master/API_data_wrangling/API_data_wrangling.ipynb)
+[API and Requests](https://github.com/dametreusv/Springboard/blob/master/API_requests/API_data_wrangling.ipynb)
 
 
 ### SQL Databases
