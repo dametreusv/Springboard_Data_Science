@@ -8,7 +8,7 @@ Capstone projects can be found at:
 ---------------------------
 
 ### Data Wrangling
-[World Development Indictors - Data Wrangling](https://github.com/dametreusv/world_development_indicators/blob/master/WDI_wrangle.ipynb)
+[World Development Indicators - Data Wrangling](https://github.com/dametreusv/world_development_indicators/blob/master/WDI_wrangle.ipynb)
 
 [JSON Extraction and Manipulation](https://github.com/dametreusv/Springboard_Data_Science/blob/master/json_data_wrangling/json_data_wrangling.ipynb)
 
