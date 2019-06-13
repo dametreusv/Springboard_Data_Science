@@ -17,3 +17,6 @@ Capstone projects can be found at:
 
 ### SQL Databases
 [Finding Data with SQL Querying](https://github.com/dametreusv/Springboard_Data_Science/blob/master/SQL_databases/country_club.sql)
+
+### Statistics: Experimental Design, Hypothesis Testing & Normality Testing
+[Human Temperature EDA]()
