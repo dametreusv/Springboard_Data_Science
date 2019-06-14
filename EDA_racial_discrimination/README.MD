@@ -1,2 +1,3 @@
 Racial discrimination continues to be pervasive in cultures throughout the world. Researchers examined the level of racial discrimination in the United States labor market by randomly assigning identical résumés to black-sounding or white-sounding names and observing the impact on requests for interviews from employers.
+
 The study shows that 9.65% of résumés with white-sounding names received callbacks, while only 6.45% of résumés with black-sounding names recieved callbacks. The difference in callbacks was 3.2%, which is statistically significant with a z-score of -4.12 and p-value approaching 0. The study concludes that race still has a significant impact on callback rates when all other candidate qualifications are equal.
