@@ -22,3 +22,5 @@ Capstone projects can be found at:
 [Human Temperature EDA](https://github.com/dametreusv/Springboard_Data_Science/blob/master/EDA_human_temperature/EDA_human_temperature_inferential_statistics.ipynb)
 
 [Racial Discrimination EDA](https://github.com/dametreusv/Springboard_Data_Science/blob/master/EDA_racial_discrimination/EDA_racial_discriminitation_inferential_statistics.ipynb)
+
+[Hospital Readmission Analysis](https://github.com/dametreusv/Springboard_Data_Science/blob/master/hospital_readmit/EDA_hospital.ipynb)
