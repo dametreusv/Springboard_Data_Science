@@ -19,6 +19,8 @@ Capstone projects can be found at:
 [Finding Data with SQL Querying](https://github.com/dametreusv/Springboard_Data_Science/blob/master/SQL_databases/country_club.sql)
 
 ### Statistics: Experimental Design, Hypothesis Testing & Normality Testing
+[World Development Indicators EDA](https://github.com/dametreusv/world_development_indicators/blob/master/WDI_analysis.ipynb)
+
 [Human Temperature EDA](https://github.com/dametreusv/Springboard_Data_Science/blob/master/EDA_human_temperature/EDA_human_temperature_inferential_statistics.ipynb)
 
 [Racial Discrimination EDA](https://github.com/dametreusv/Springboard_Data_Science/blob/master/EDA_racial_discrimination/EDA_racial_discriminitation_inferential_statistics.ipynb)
