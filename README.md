@@ -20,6 +20,7 @@ Capstone projects can be found at:
 
 ### Statistics: Experimental Design, Hypothesis Testing & Normality Testing
 [World Development Indicators EDA](https://github.com/dametreusv/world_development_indicators/blob/master/WDI_analysis.ipynb)
+- [World Development Indicators EDA with Internal Navigation Links](https://nbviewer.jupyter.org/github/dametreusv/world_development_indicators/blob/master/WDI_analysis.ipynb)
 
 [Human Temperature EDA](https://github.com/dametreusv/Springboard_Data_Science/blob/master/EDA_human_temperature/EDA_human_temperature_inferential_statistics.ipynb)
 
