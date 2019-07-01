@@ -1,6 +1,6 @@
 # Springboard Projects
 This is a repository that hosts all Springboard projects as part of the Data Science Career Track program.
-Capstone projects can be found at:
+In depth review of capstone projects can be found at:
 - [World Development Indicators](https://github.com/dametreusv/world_development_indicators)
 
 
