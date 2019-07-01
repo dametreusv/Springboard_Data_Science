@@ -32,3 +32,9 @@ Capstone projects can be found at:
 
 [World Development Indicators EDA](https://github.com/dametreusv/world_development_indicators/blob/master/WDI_analysis.ipynb)
 - [World Development Indicators EDA with Internal Navigation Links](https://nbviewer.jupyter.org/github/dametreusv/world_development_indicators/blob/master/WDI_analysis.ipynb)
+
+
+### Reports
+
+[Milestone Report](https://github.com/dametreusv/world_development_indicators/blob/master/WDI_milestone_report.ipynb)
+- [Milestone Report with Internal Navigation Links](https://nbviewer.jupyter.org/github/dametreusv/world_development_indicators/blob/master/WDI_milestone_report.ipynb)
