@@ -8,7 +8,7 @@ Capstone projects can be found at:
 ---------------------------
 
 ### Data Wrangling
-[World Development Indicators Acquisition](https://github.com/dametreusv/world_development_indicators/blob/master/WDI_wrangle.ipynb)
+[WDI Acquisition](https://github.com/dametreusv/world_development_indicators/blob/master/WDI_wrangle.ipynb)
 
 [JSON Extraction and Manipulation](https://github.com/dametreusv/Springboard_Data_Science/blob/master/json_data_wrangling/json_data_wrangling.ipynb)
 
@@ -30,11 +30,11 @@ Capstone projects can be found at:
 
 ### Exploratory Data Analysis
 
-[World Development Indicators EDA](https://github.com/dametreusv/world_development_indicators/blob/master/WDI_analysis.ipynb)
-- [World Development Indicators EDA with Internal Navigation Links](https://nbviewer.jupyter.org/github/dametreusv/world_development_indicators/blob/master/WDI_analysis.ipynb)
+[WDI EDA](https://github.com/dametreusv/world_development_indicators/blob/master/WDI_analysis.ipynb)
+- [WDI EDA with Internal Navigation Links](https://nbviewer.jupyter.org/github/dametreusv/world_development_indicators/blob/master/WDI_analysis.ipynb)
 
 
 ### Reports
 
-[Milestone Report](https://github.com/dametreusv/world_development_indicators/blob/master/WDI_milestone_report.ipynb)
-- [Milestone Report with Internal Navigation Links](https://nbviewer.jupyter.org/github/dametreusv/world_development_indicators/blob/master/WDI_milestone_report.ipynb)
+[WDI Milestone Report](https://github.com/dametreusv/world_development_indicators/blob/master/WDI_milestone_report.ipynb)
+- [WDI Milestone Report with Internal Navigation Links](https://nbviewer.jupyter.org/github/dametreusv/world_development_indicators/blob/master/WDI_milestone_report.ipynb)
