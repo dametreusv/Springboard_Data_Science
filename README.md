@@ -38,3 +38,7 @@ In depth review of capstone projects can be found at:
 
 [WDI Milestone Report](https://github.com/dametreusv/world_development_indicators/blob/master/WDI_milestone_report.ipynb)
 - [WDI Milestone Report with Internal Navigation Links](https://nbviewer.jupyter.org/github/dametreusv/world_development_indicators/blob/master/WDI_milestone_report.ipynb)
+
+
+### Supervised Learning
+[Linear Regression](https://github.com/dametreusv/Springboard_Data_Science/blob/master/ML_linear_regression/ML_Linear_Regression.ipynb)
