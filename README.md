@@ -42,3 +42,5 @@ In depth review of capstone projects can be found at:
 
 ### Supervised Learning
 [Linear Regression](https://github.com/dametreusv/Springboard_Data_Science/blob/master/ML_linear_regression/ML_Linear_Regression.ipynb)
+
+[Logistic Regression](https://github.com/dametreusv/Springboard_Data_Science/blob/master/ML_logistic_regression/Mini_Project_Logistic_Regression.ipynb)
