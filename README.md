@@ -44,3 +44,6 @@ In depth review of capstone projects can be found at:
 [Linear Regression](https://github.com/dametreusv/Springboard_Data_Science/blob/master/ML_linear_regression/ML_Linear_Regression.ipynb)
 
 [Logistic Regression](https://github.com/dametreusv/Springboard_Data_Science/blob/master/ML_logistic_regression/Mini_Project_Logistic_Regression.ipynb)
+
+[Naive Bayes]
+(https://github.com/dametreusv/Springboard_Data_Science/blob/master/Naive_Bayes/Naive_Bayes_Mini_Project.ipynb)
