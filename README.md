@@ -51,4 +51,4 @@ In depth review of capstone projects can be found at:
 
 
  ### Unupervised Learning
- [Clustering](https://github.com/dametreusv/Springboard_Data_Science/blob/master/Unsupervised_Clustering/Mini_Project_Clustering.ipynb)
+ [Clustering & PCA](https://github.com/dametreusv/Springboard_Data_Science/blob/master/Unsupervised_Clustering/Mini_Project_Clustering.ipynb)
