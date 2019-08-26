@@ -41,6 +41,8 @@ Capstone projects can be found at:
 
 
 ### Supervised Learning
+[WDI Classification](https://github.com/dametreusv/world_development_indicators/blob/master/WDA_modeling.ipynb)
+- [WDI Classification with Internal Navigation Links](https://nbviewer.jupyter.org/github/dametreusv/world_development_indicators/blob/master/WDA_modeling.ipynb)
 [Linear Regression](https://github.com/dametreusv/Springboard_Data_Science/blob/master/ML_linear_regression/ML_Linear_Regression.ipynb)
 
 [Logistic Regression](https://github.com/dametreusv/Springboard_Data_Science/blob/master/ML_logistic_regression/Mini_Project_Logistic_Regression.ipynb)
