@@ -34,15 +34,10 @@ Capstone projects can be found at:
 - [WDI EDA with Internal Navigation Links](https://nbviewer.jupyter.org/github/dametreusv/world_development_indicators/blob/master/WDI_analysis.ipynb)
 
 
-### Reports
-
-[WDI Milestone Report](https://github.com/dametreusv/world_development_indicators/blob/master/WDI_milestone_report.ipynb)
-- [WDI Milestone Report with Internal Navigation Links](https://nbviewer.jupyter.org/github/dametreusv/world_development_indicators/blob/master/WDI_milestone_report.ipynb)
-
-
 ### Supervised Learning
 [WDI Classification](https://github.com/dametreusv/world_development_indicators/blob/master/WDA_modeling.ipynb)
 - [WDI Classification with Internal Navigation Links](https://nbviewer.jupyter.org/github/dametreusv/world_development_indicators/blob/master/WDA_modeling.ipynb)
+
 [Linear Regression](https://github.com/dametreusv/Springboard_Data_Science/blob/master/ML_linear_regression/ML_Linear_Regression.ipynb)
 
 [Logistic Regression](https://github.com/dametreusv/Springboard_Data_Science/blob/master/ML_logistic_regression/Mini_Project_Logistic_Regression.ipynb)
@@ -54,3 +49,10 @@ Capstone projects can be found at:
 
  ### Unupervised Learning
  [Clustering & PCA](https://github.com/dametreusv/Springboard_Data_Science/blob/master/Unsupervised_Clustering/Mini_Project_Clustering.ipynb)
+
+
+### Reports
+
+[WDI Milestone Report](https://github.com/dametreusv/world_development_indicators/blob/master/WDI_milestone_report.ipynb)
+- [WDI Milestone Report with Internal Navigation Links](https://nbviewer.jupyter.org/github/dametreusv/world_development_indicators/blob/master/WDI_milestone_report.ipynb)
+
