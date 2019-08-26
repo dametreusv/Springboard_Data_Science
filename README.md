@@ -1,7 +1,7 @@
 # Springboard Projects
 This is a repository that hosts all Springboard related projects.
 Capstone projects can be found at:
-- [World Development Indicators](https://github.com/dametreusv/world_development_indicators)
+- [Predicting Income Groups Using World Development Indicators](https://github.com/dametreusv/world_development_indicators)
 
 
 ## Table of Contents
