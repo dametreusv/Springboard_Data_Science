@@ -1,5 +1,5 @@
 # Springboard Projects
-This is a repository that hosts all Springboard related projects.
+This is a repository that hosts Data Science related mini projects from Springboard.  These projects showcase skill and understanding of core data science disciplines.
 Capstone projects can be found at:
 - [Predicting Income Groups Using World Development Indicators](https://github.com/dametreusv/world_development_indicators)
 
