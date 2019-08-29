@@ -6,6 +6,8 @@ Capstone projects can be found at:
 
 ## Table of Contents
 ---------------------------
+<img src='https://github.com/dametreusv/Springboard_Data_Science/blob/master/_1_skyline.jpg'>
+---------------------------
 
 ### Data Wrangling
 [WDI Acquisition](https://github.com/dametreusv/world_development_indicators/blob/master/WDI_wrangle.ipynb)
