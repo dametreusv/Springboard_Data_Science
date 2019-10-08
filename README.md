@@ -2,7 +2,7 @@
 This is a repository that hosts Data Science related mini projects from Springboard.  These projects showcase skill and understanding of core data science disciplines.
 Capstone projects can be found at:
 - [Predicting Income Groups Using World Development Indicators](https://github.com/dametreusv/world_development_indicators)
-- [Building a Hybrid Product Recommendation System using Amazon Customer Reviews and Ratings](https://github.com/dametreusv/amazon_hybrid_recommendation_system)
+- [Amazon Customer Review Insights & Hybrid Product Recommendation Engine](https://github.com/dametreusv/amazon_hybrid_recommendation_system)
 
 
 ## Table of Contents
