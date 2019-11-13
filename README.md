@@ -14,6 +14,8 @@ Capstone projects can be found at:
 ### Data Wrangling
 [WDI Acquisition](https://github.com/dametreusv/world_development_indicators/blob/master/WDI_wrangle.ipynb)
 
+[APR Acquisition](https://github.com/dametreusv/amazon_hybrid_recommendation_system/blob/master/APR_wrangle.ipynb)
+
 [JSON Extraction and Manipulation](https://github.com/dametreusv/Springboard_Data_Science/blob/master/json_data_wrangling/json_data_wrangling.ipynb)
 
 [API and Requests](https://github.com/dametreusv/Springboard_Data_Science/blob/master/API_requests/API_data_wrangling.ipynb)
@@ -36,6 +38,9 @@ Capstone projects can be found at:
 
 [WDI EDA](https://github.com/dametreusv/world_development_indicators/blob/master/WDI_analysis.ipynb)
 - [WDI EDA with Internal Navigation Links](https://nbviewer.jupyter.org/github/dametreusv/world_development_indicators/blob/master/WDI_analysis.ipynb)
+
+[APR EDA](https://github.com/dametreusv/amazon_hybrid_recommendation_system/blob/master/APR_analysis.ipynb}
+- [APR EDA with Internal Navigation Links](https://nbviewer.jupyter.org/github/dametreusv/amazon_hybrid_recommendation_system/blob/master/APR_analysis.ipynb)
 
 
 ### Supervised Learning
