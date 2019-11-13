@@ -12,13 +12,14 @@ Capstone projects can be found at:
 ---------------------------
 
 ### Data Wrangling
-[WDI Acquisition](https://github.com/dametreusv/world_development_indicators/blob/master/WDI_wrangle.ipynb)
-
-[APR Acquisition](https://github.com/dametreusv/amazon_hybrid_recommendation_system/blob/master/APR_wrangle.ipynb)
 
 [JSON Extraction and Manipulation](https://github.com/dametreusv/Springboard_Data_Science/blob/master/json_data_wrangling/json_data_wrangling.ipynb)
 
 [API and Requests](https://github.com/dametreusv/Springboard_Data_Science/blob/master/API_requests/API_data_wrangling.ipynb)
+
+[WDI Acquisition](https://github.com/dametreusv/world_development_indicators/blob/master/WDI_wrangle.ipynb)
+
+[APR Acquisition](https://github.com/dametreusv/amazon_hybrid_recommendation_system/blob/master/APR_wrangle.ipynb)
 
 
 ### SQL Databases
@@ -39,14 +40,11 @@ Capstone projects can be found at:
 [WDI EDA](https://github.com/dametreusv/world_development_indicators/blob/master/WDI_analysis.ipynb)
 - [WDI EDA with Internal Navigation Links](https://nbviewer.jupyter.org/github/dametreusv/world_development_indicators/blob/master/WDI_analysis.ipynb)
 
-[APR EDA](https://github.com/dametreusv/amazon_hybrid_recommendation_system/blob/master/APR_analysis.ipynb}
+[APR EDA](https://github.com/dametreusv/amazon_hybrid_recommendation_system/blob/master/APR_analysis.ipynb)
 - [APR EDA with Internal Navigation Links](https://nbviewer.jupyter.org/github/dametreusv/amazon_hybrid_recommendation_system/blob/master/APR_analysis.ipynb)
 
 
 ### Supervised Learning
-[WDI Classification](https://github.com/dametreusv/world_development_indicators/blob/master/WDA_modeling.ipynb)
-- [WDI Classification with Internal Navigation Links](https://nbviewer.jupyter.org/github/dametreusv/world_development_indicators/blob/master/WDA_modeling.ipynb)
-
 [Linear Regression](https://github.com/dametreusv/Springboard_Data_Science/blob/master/ML_linear_regression/ML_Linear_Regression.ipynb)
 
 [Logistic Regression](https://github.com/dametreusv/Springboard_Data_Science/blob/master/ML_logistic_regression/Mini_Project_Logistic_Regression.ipynb)
@@ -54,6 +52,9 @@ Capstone projects can be found at:
 [Naive Bayes](https://github.com/dametreusv/Springboard_Data_Science/blob/master/Naive_Bayes/Naive_Bayes_Mini_Project.ipynb)
 
 [Basic NLP & Multilabel Classification](https://github.com/dametreusv/Springboard_Data_Science/blob/master/ML_NLP_Log/ML_School_Budgets.ipynb)
+
+[WDI Classification](https://github.com/dametreusv/world_development_indicators/blob/master/WDA_modeling.ipynb)
+- [WDI Classification with Internal Navigation Links](https://nbviewer.jupyter.org/github/dametreusv/world_development_indicators/blob/master/WDA_modeling.ipynb)
 
 
  ### Unupervised Learning
