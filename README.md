@@ -17,10 +17,6 @@ Capstone projects can be found at:
 
 [API and Requests](https://github.com/dametreusv/Springboard_Data_Science/blob/master/API_requests/API_data_wrangling.ipynb)
 
-[WDI Acquisition](https://github.com/dametreusv/world_development_indicators/blob/master/WDI_wrangle.ipynb)
-
-[APR Acquisition](https://github.com/dametreusv/amazon_hybrid_recommendation_system/blob/master/APR_wrangle.ipynb)
-
 
 ### SQL Databases
 [Finding Data with SQL Querying](https://github.com/dametreusv/Springboard_Data_Science/blob/master/SQL_databases/country_club.sql)
@@ -35,15 +31,6 @@ Capstone projects can be found at:
 [Hospital Readmission Analysis](https://github.com/dametreusv/Springboard_Data_Science/blob/master/hospital_readmit/EDA_hospital.ipynb)
 
 
-### Exploratory Data Analysis
-
-[WDI EDA](https://github.com/dametreusv/world_development_indicators/blob/master/WDI_analysis.ipynb)
-- [WDI EDA with Internal Navigation Links](https://nbviewer.jupyter.org/github/dametreusv/world_development_indicators/blob/master/WDI_analysis.ipynb)
-
-[APR EDA](https://github.com/dametreusv/amazon_hybrid_recommendation_system/blob/master/APR_analysis.ipynb)
-- [APR EDA with Internal Navigation Links](https://nbviewer.jupyter.org/github/dametreusv/amazon_hybrid_recommendation_system/blob/master/APR_analysis.ipynb)
-
-
 ### Supervised Learning
 [Linear Regression](https://github.com/dametreusv/Springboard_Data_Science/blob/master/ML_linear_regression/ML_Linear_Regression.ipynb)
 
@@ -53,18 +40,8 @@ Capstone projects can be found at:
 
 [Basic NLP & Multilabel Classification](https://github.com/dametreusv/Springboard_Data_Science/blob/master/ML_NLP_Log/ML_School_Budgets.ipynb)
 
-[WDI Classification](https://github.com/dametreusv/world_development_indicators/blob/master/WDA_modeling.ipynb)
-- [WDI Classification with Internal Navigation Links](https://nbviewer.jupyter.org/github/dametreusv/world_development_indicators/blob/master/WDA_modeling.ipynb)
-
 
  ### Unupervised Learning
  [Clustering & PCA](https://github.com/dametreusv/Springboard_Data_Science/blob/master/Unsupervised_Clustering/Mini_Project_Clustering.ipynb)
 
-
-### Reports
-
-[WDI Milestone Report](https://github.com/dametreusv/world_development_indicators/blob/master/WDI_milestone_report.ipynb)
-- [WDI Milestone Report with Internal Navigation Links](https://nbviewer.jupyter.org/github/dametreusv/world_development_indicators/blob/master/WDI_milestone_report.ipynb)
-
-[WDI Final Report](https://github.com/dametreusv/world_development_indicators/blob/master/WDI_final_report_.ipynb)
 
