@@ -45,3 +45,8 @@ Capstone projects can be found at:
  [Clustering & PCA](https://github.com/dametreusv/Springboard_Data_Science/blob/master/Unsupervised_Clustering/Mini_Project_Clustering.ipynb)
 
 
+
+---------------
+Capstone projects can be found at:
+- [Predicting Income Groups Using World Development Indicators](https://github.com/dametreusv/world_development_indicators)
+- [Amazon Customer Review Insights & Hybrid Product Recommendation System](https://github.com/dametreusv/amazon_hybrid_recommendation_system)
