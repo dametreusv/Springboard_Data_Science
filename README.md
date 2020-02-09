@@ -49,6 +49,10 @@ Capstone projects can be found at:
  [Spark Dataframe, SQL & ML with Databricks](https://github.com/dametreusv/Springboard_Data_Science/blob/master/Spark_Databricks/Spark_DF_SQL_ML_Exercise.ipynb)
  
  [MapReduce Using Spark](https://github.com/dametreusv/Springboard_Data_Science/blob/master/Spark_Map_Reduce/pyspark_exercise.ipynb)
+ 
+ 
+ ### Data Science Challenges
+ [Relax Challenge - Discovering Adopted Users](https://github.com/dametreusv/Springboard_Data_Science/blob/master/Relax_Challenge/Relax_Challenge.ipynb)
 
 
 
