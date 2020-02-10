@@ -53,6 +53,8 @@ Capstone projects can be found at:
  
  ### Data Science Challenges
  [Relax Challenge - Discovering Adopted Users](https://github.com/dametreusv/Springboard_Data_Science/blob/master/Relax_Challenge/Relax_Challenge.ipynb)
+ 
+ [Ultimate Challenge - Logistics & Rideshares](https://github.com/dametreusv/Springboard_Data_Science/blob/master/Ultimate_Challenge/Ultimate_Challenge.ipynb)
 
 
 
